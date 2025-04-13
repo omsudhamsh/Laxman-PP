@@ -6,7 +6,7 @@ export const Sidebar = () => {
       <div className="text-center">
         <div className="w-32 h-32 mx-auto rounded-full overflow-hidden mb-4">
           <img
-            src="/images/picofme (3).png"
+            src="/Laxman-PP/images/picofme (3).png"
             alt="Profile"
             className="w-full h-full object-cover"
           />
